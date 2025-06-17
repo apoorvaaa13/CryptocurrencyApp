@@ -1,0 +1,16 @@
+*{ font-size: 2.5vw;}
+body{ background:linear-gradient(to right, #c6aca2, #b85638);}
+img{ width:2vw; height:auto;}
+tr{ text-align:center;}
+
+.coin{
+    max-width: 1200px;
+    margin: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #1716161a;
+    background: linear-gradient(to right, #d18f82, #da5831);
+    box-shadow: 0 -8px 25px rgba(0, 0, 0, 0.8);
+}
+
